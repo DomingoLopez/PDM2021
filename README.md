@@ -12,7 +12,7 @@ HDRescuer es una aplicación para Android que permite la conexión a diversos di
 Su labor es la de servir como Sistema de Información para la gestión de pacientes y las distintas sesiones de recopilación de datos de los mismos, los cuales se almacenan en un servidor en la nube basado en una arquitectura de microservicios.  
 Los datos recopilados se usarán para aplicar técnicas de *Machine Learning* para la detección temprana de enfermedades, así como encontrar patrones de recuperación en pacientes post-COVID.  
 
-## APP 1: HDRescuer, Recuperación de datos Médicos
+## APP 2: Discover, Compartición de localizaciones curiosas de la ciudad
 
 Plataforma: Android  
 Repositorio raíz: [Repositorio Github DISCOVER](https://github.com/DomingoLopez/Discover)  
